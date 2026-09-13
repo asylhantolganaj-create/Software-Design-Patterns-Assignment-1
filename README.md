@@ -1,9 +1,8 @@
-# Software-Design-Patterns-Assignment-1
 # Software Design Patterns - Assignment 1: Builder Pattern Implementation
 
 **Author:** Asylkhan Tolganai  
 **Group:** SE-2538  
-**Repository:** [Software Design Patterns Assignment 1
+**Repository:** [Software Design Patterns Assignment 1]
 
 ---
 
